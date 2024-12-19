@@ -5,7 +5,7 @@ from pymongo.mongo_client import MongoClient
 from pymongo.server_api import ServerApi
 
 # OpenAI API Key
-openai.api_key = "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"
+openai.api_key = ""
 
 # MongoDB Connection URI
 uri = "mongodb+srv://ashkarfrancis1:frafra45@cluster0.jbpov.mongodb.net/?retryWrites=true&w=majority"
